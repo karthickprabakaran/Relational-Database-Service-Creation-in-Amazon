@@ -29,7 +29,7 @@ mysql -h <endpoint> -u <username> -p
 
 ## OUTPUT
 
-![image]([https://github.com/user-attachments/assets/759c46dd-829c-4bf8-9d62-f211f87b953c](https://github.com/karthickprabakaran/Relational-Database-Service-Creation-in-Amazon/blob/main/55.png)
+![image](https://github.com/karthickprabakaran/Relational-Database-Service-Creation-in-Amazon/blob/main/55.png)
 
 
 ## RESULT
